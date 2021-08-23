@@ -1,0 +1,3 @@
+[submodule "azure-resources/bicep-templates"]
+	path = azure-resources/bicep-templates
+	url = https://github.com/kamezaki/bicep-templates.git
